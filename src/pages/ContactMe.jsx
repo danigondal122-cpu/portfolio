@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import React, { useState } from "react";
 import emailjs from "@emailjs/browser";
 import { imageLoader } from "../utils/assets/imageLoader";
 import "../styles/contact-me.css";
@@ -10,7 +10,7 @@ const EMAILJS_PUBLIC_KEY = process.env.REACT_APP_EMAILJS_PUBLIC_KEY;
 
 
 const Contact = () => {
-  const formRef = useRef(null);
+
 
   const [formData, setFormData] = useState({
     first_name: "",

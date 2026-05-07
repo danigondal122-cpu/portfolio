@@ -408,7 +408,7 @@ async _setup() {
 
     const sz       = this.opts.buttonSize;
     const half     = sz / 2;
-    const fadeZone = this.opts.fadeZone; // fraction of ring length
+    
 
     this._orbiters.forEach((orb, idx) => {
       const ring = this._rings[orb.ringIndex];

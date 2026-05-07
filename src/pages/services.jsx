@@ -10,7 +10,7 @@ const Services = () => {
   const pauseRef    = useRef(null);
   const carouselRef = useRef(null);   // ← the 70% right column
   const carouselInstance = useRef(null);
-  const [isPaused, setIsPaused] = React.useState(false);
+  const [isPaused, setIsPaused] = useState(false);
 
   const config = useCarouselConfig();
   const floatLineConfig = useLineFloatingConfig();
@@ -31,7 +31,7 @@ const Services = () => {
 
   useEffect(() => {
     // ── Floating dashed line ──────────────────────────────────
-    let lineFloat, pauseFloat, carousel;
+    let lineFloat, pauseFloat;
 
     if (anchorRef.current && floatRef.current) {
       lineFloat = new FloatingImage(anchorRef.current, floatRef.current, {
