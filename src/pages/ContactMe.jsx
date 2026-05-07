@@ -4,9 +4,10 @@ import { imageLoader } from "../utils/assets/imageLoader";
 import "../styles/contact-me.css";
 
 // ── Replace these with your real EmailJS credentials ──────────
-const EMAILJS_SERVICE_ID  = "service_x4vfolb";
-const EMAILJS_TEMPLATE_ID = "template_vf9gk2a";
-const EMAILJS_PUBLIC_KEY  = "-8yLpmne8bWbI3GwW";
+const EMAILJS_SERVICE_ID = process.env.REACT_APP_EMAILJS_SERVICE_ID;
+const EMAILJS_TEMPLATE_ID = process.env.REACT_APP_EMAILJS_TEMPLATE_ID;
+const EMAILJS_PUBLIC_KEY = process.env.REACT_APP_EMAILJS_PUBLIC_KEY;
+
 
 const Contact = () => {
   const formRef = useRef(null);
