@@ -1,0 +1,74 @@
+/* ============================= */
+/* 📱 SCREEN CONTROL UTILITIES */
+/* ============================= */
+
+/* Default = mobile-first */
+
+/* ---------- SMALL (≤640px) ---------- */
+@media (max-width: 640px) {
+
+  .sm-flex { display: flex; }
+  .sm-row { flex-direction: row; display: flex; }
+  .sm-col { flex-direction: column; display: flex; }
+
+  .sm-grid { display: grid; }
+
+  .sm-hidden { display: none; }
+  .sm-block { display: block; }
+
+  .sm-w-full { width: 100%; }
+  .sm-w-50 { width: 50%; }
+
+  .sm-text-center { text-align: center; }
+}
+
+
+/* ---------- MEDIUM (≤768px) ---------- */
+@media (max-width: 768px) {
+
+  .md-flex { display: flex; }
+  .md-row { flex-direction: row; display: flex; }
+  .md-col { flex-direction: column; display: flex; }
+
+  .md-grid { display: grid; }
+
+  .md-hidden { display: none; }
+  .md-block { display: block; }
+
+  .md-w-full { width: 100%; }
+  .md-w-50 { width: 50%; }
+
+  .md-text-center { text-align: center; }
+}
+
+
+/* ---------- LARGE (≤1024px) ---------- */
+@media (max-width: 1024px) {
+
+  .lg-flex { display: flex; }
+  .lg-row { flex-direction: row; display: flex; }
+  .lg-col { flex-direction: column; display: flex; }
+
+  .lg-grid { display: grid; }
+
+  .lg-hidden { display: none; }
+  .lg-block { display: block; }
+
+  .lg-w-full { width: 100%; }
+}
+
+
+/* ---------- XL (≥1280px) ---------- */
+@media (min-width: 1280px) {
+
+  .xl-flex { display: flex; }
+  .xl-row { flex-direction: row; display: flex; }
+  .xl-col { flex-direction: column; display: flex; }
+
+  .xl-grid { display: grid; }
+
+  .xl-hidden { display: none; }
+  .xl-block { display: block; }
+
+  .xl-w-50 { width: 50%; }
+}

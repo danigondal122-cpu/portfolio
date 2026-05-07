@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!-- License: PD. Made by LaylaRen: https://dribbble.com/LaylaRen -->
+<svg width="256" height="256" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="30" fill="#000000"/>
+
+  <!-- centered icon group -->
+  <g transform="translate(32 32) scale(2.2) translate(-8 -8)">
+    <path
+      d="M8 7.82842L12.5858 12.4142L15.4142 9.58578L8 2.17157L0.585788 9.58578L3.41421 12.4142L8 7.82842Z"
+      fill="#FFFFFF"
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+    />
+  </g>
+</svg>

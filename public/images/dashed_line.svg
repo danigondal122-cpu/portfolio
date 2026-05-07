@@ -1,0 +1,25 @@
+<svg width="24" height="149" viewBox="0 0 24 149" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="22.603" width="47.3283" height="22.6042" transform="rotate(89.4765 22.603 0)" fill="url(#pattern0_2400_372)"/>
+<rect x="22.603" y="26" width="47.3283" height="22.6042" transform="rotate(89.4765 22.603 26)" fill="url(#pattern1_2400_372)"/>
+<rect x="22.603" y="51" width="47.3283" height="22.6042" transform="rotate(89.4765 22.603 51)" fill="url(#pattern2_2400_372)"/>
+<rect x="22.603" y="76" width="47.3283" height="22.6042" transform="rotate(89.4765 22.603 76)" fill="url(#pattern3_2400_372)"/>
+<rect x="22.603" y="101" width="47.3283" height="22.6042" transform="rotate(89.4765 22.603 101)" fill="url(#pattern4_2400_372)"/>
+<defs>
+<pattern id="pattern0_2400_372" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2400_372" transform="matrix(0.00530671 0 0 0.0111111 0.261198 0)"/>
+</pattern>
+<pattern id="pattern1_2400_372" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2400_372" transform="matrix(0.00530671 0 0 0.0111111 0.261198 0)"/>
+</pattern>
+<pattern id="pattern2_2400_372" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2400_372" transform="matrix(0.00530671 0 0 0.0111111 0.261198 0)"/>
+</pattern>
+<pattern id="pattern3_2400_372" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2400_372" transform="matrix(0.00530671 0 0 0.0111111 0.261198 0)"/>
+</pattern>
+<pattern id="pattern4_2400_372" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2400_372" transform="matrix(0.00530671 0 0 0.0111111 0.261198 0)"/>
+</pattern>
+<image id="image0_2400_372" width="90" height="90" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAjklEQVR4nO3Vuw5BURCG0S+n4/FdwlOioSUSUWiQHAnOWsm0s/8p9kwBAAAAAAAAAAAAAAAAAMC/mFfr6lCdR6p9tapmMnTPsB2x8WNde79iEhlOH3zgWA1PBhwmkmESQw5fkOGjX2bTa7ZTyHBd1Mvb4h6r8a5avHGIZjIAAAAAAAAAAAAAAAAAAEA/4ALyd5fY+h7nTgAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
